@@ -81,6 +81,6 @@ namespace Autodesk.Forge.Core
         /// <summary>
         /// Retry after time.
         /// </summary>
-        public TimeSpan? RetryAfter { get; init; }
+        public TimeSpan? RetryAfter { get; set; }
     }
 }

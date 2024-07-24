@@ -1,6 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   
   <PropertyGroup>
+    <TargetFrameworks>net6.0</TargetFrameworks>
+    <LangVersion>Latest</LangVersion>
     <Description>Shared code for APS client sdks</Description>
     <PackageVersion>4.0.0</PackageVersion>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
